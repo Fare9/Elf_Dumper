@@ -1,0 +1,19 @@
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Local History for Visual Studio Code
+.history/
+
+test/host
+test/host-no-pie
+test/host_hello_world
+test/host_hello_world_32
+test/host_hello_world-no-pie
+test/host_hello_world_32-no-pie
+
+obj-files/
+out/ 
